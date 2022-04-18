@@ -1,8 +1,10 @@
-### Hi there 👋
 <p align="left">
  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwaki-toshiyuki&layout=compact&theme=onedark" />
  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iwaki-toshiyuki&theme=onedark&show_icons=ture" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iwaki-toshiyuki&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **iwaki-toshiyuki/iwaki-toshiyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
