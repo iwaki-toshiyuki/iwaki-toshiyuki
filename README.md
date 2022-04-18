@@ -2,10 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwaki-toshiyuki&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={名前}&theme=onedark&show_icons=ture" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwaki-toshiyuki]
+(https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iwaki-toshiyuki/iwaki-toshiyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
